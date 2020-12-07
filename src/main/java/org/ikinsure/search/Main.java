@@ -1,4 +1,4 @@
-package org.ikinsure.hard.search;
+package org.ikinsure.search;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

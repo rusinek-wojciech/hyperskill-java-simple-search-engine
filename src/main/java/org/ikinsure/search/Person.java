@@ -1,4 +1,4 @@
-package org.ikinsure.hard.search;
+package org.ikinsure.search;
 
 public class Person implements Mappable {
 

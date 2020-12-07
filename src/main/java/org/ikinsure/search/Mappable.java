@@ -1,4 +1,4 @@
-package org.ikinsure.hard.search;
+package org.ikinsure.search;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
